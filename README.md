@@ -1,6 +1,6 @@
-Reference Number :  25014014
-Register Number :  212225230108
-Name : IYYAPPAN S 
+## Reference Number :  25014014
+## Register Number :  212225230108
+## Name : IYYAPPAN S 
 
 ## 1. Foundational Concepts of Generative AI, Generative Models, and Their Types##
 **1.1 Introduction to Generative AI**

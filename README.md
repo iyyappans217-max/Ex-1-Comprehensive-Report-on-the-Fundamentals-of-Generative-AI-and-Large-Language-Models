@@ -33,7 +33,7 @@ Generative models play a critical role in modern AI because they:
 •	Support scientific research and design
 They are especially useful when real-world data is limited, expensive, or sensitive.
 ________________________________________
-1.4 Types of Generative Models
+**1.4 Types of Generative Models**
 Generative models can be broadly classified into the following major types:
 ________________________________________
 1.4.1 Autoregressive Models

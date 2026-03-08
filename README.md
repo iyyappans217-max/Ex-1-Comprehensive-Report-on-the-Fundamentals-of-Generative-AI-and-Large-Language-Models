@@ -1,6 +1,3 @@
-## Name              : IYYAPPAN S 
-## Reference Number  : 25014014
-## Register Number   :  212225230108
 
 # 1. Foundational Concepts of Generative AI, Generative Models, and Their Types
 
@@ -13,7 +10,7 @@ Unlike traditional AI systems that provide predictions or decisions, Generative 
 
 Generative AI learns the underlying patterns and probability distributions of training data and then uses this learned knowledge to generate new data that closely resembles real-world data.
 
-#### Examples of tasks performed by Generative AI include
+### Examples of tasks performed by Generative AI include
 
 •	Writing essays and reports
 
@@ -171,7 +168,7 @@ Diffusion models work by:
 __________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 
-# 2. AI Tools in 2024
+# `2. AI Tools in 2024`
 
 ## 2.1 Overview of AI Tools in 2024: 
 
@@ -289,7 +286,7 @@ Used for:
 
 __________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-# 3. Large Language Models (LLMs): Concept and Construction
+# `  3. Large Language Models (LLMs): Concept and Construction`
 
 ## 3.1 What Is a Large Language Model (LLM)?
 
@@ -335,7 +332,7 @@ Step 1: Data Collection
 
 
 
-Step 2: Data Preprocessing
+`Step 2: Data Preprocessing`
 
 •	Cleaning
 
@@ -345,7 +342,7 @@ Step 2: Data Preprocessing
 
 
 
-Step 3: Model Training
+`Step 3: Model Training`
 
 •	Training neural networks with billions of parameters
 
@@ -355,7 +352,7 @@ Step 3: Model Training
 
 
 
-Step 4: Fine-Tuning
+`Step 4: Fine-Tuning`
 
 •	Instruction tuning
 
@@ -363,7 +360,7 @@ Step 4: Fine-Tuning
 
 
 
-Step 5: Deployment
+`Step 5: Deployment`
 
 •	APIs
 
@@ -373,7 +370,7 @@ Step 5: Deployment
 
 _____________________________________________________________________________________________________________________
 
-## 3.4 Challenges in LLM Development
+##   3.4 Challenges in LLM Development
 
 •	High computational cost
 
@@ -400,7 +397,7 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________________________________________
 _____________________________________________________________________________________________________________________
-# 4. Evolution of Artificial Intelligence – Timeline Chart
+# `4. Evolution of Artificial Intelligence – Timeline Chart`
 
 ## 4.1 Introduction
 The evolution of AI spans more than seven decades, moving from theoretical ideas to practical, intelligent systems.
@@ -437,9 +434,12 @@ Modern AI focuses on:
 
 __________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-# Conclusion
+# `Conclusion`
 
 Generative AI represents a transformative stage in artificial intelligence. With powerful generative models, advanced LLMs, and versatile AI tools, machines are no longer just problem-solvers but creative collaborators.
 
 Understanding these concepts is essential for students and professionals to adapt to the AI-driven future.
 
+### Name              : ` IYYAPPAN S` 
+### Reference Number  :  ` 25014014`
+### Register Number   : ` 212225230108`

@@ -9,6 +9,7 @@ Generative Artificial Intelligence (Generative AI) is a branch of artificial int
 Generative AI learns the underlying patterns and probability distributions of training data and then uses this learned knowledge to generate new data that closely resembles real-world data.
 
 _Examples of tasks performed by Generative AI include:_
+
 •	Writing essays and reports
 •	Generating realistic images and videos
 •	Composing music
@@ -16,7 +17,9 @@ _Examples of tasks performed by Generative AI include:_
 •	Designing products and simulations
 ________________________________________
 **1.2 What Is a Generative Model?**
+
 A Generative Model is a type of machine learning model that learns how data is generated in order to produce new data samples from the same distribution.
+
 In simple terms:
 
 A generative model learns “how data looks” rather than just “how to label data.”
@@ -25,6 +28,7 @@ There are two broad categories of machine learning models:
 2.	Generative Models – Generate new data similar to training data.
  
 1.3 Why Generative Models Are Important
+
 Generative models play a critical role in modern AI because they:
 •	Enable creativity and automation
 •	Help in data augmentation
@@ -53,15 +57,21 @@ Limitations:
 **1.4.2 Variational Autoencoders (VAEs)**
 
 VAEs consist of:
+
 •	Encoder – compresses input data into latent space
+
 •	Decoder – reconstructs data from latent space
 
 They introduce probability distributions in latent space, enabling controlled generation.
 
 Applications:
+
 •	Image generation
+
 •	Anomaly detection
+
 •	Data compression
+
 
 Advantages:
 •	Smooth latent space

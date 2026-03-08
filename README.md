@@ -3,7 +3,7 @@
 
 ## `1.1 Introduction to Generative AI`
 
-
+ 
 Generative Artificial Intelligence (Generative AI) is a branch of artificial intelligence that focuses on creating new content rather than only analyzing or classifying existing data.
 
 Unlike traditional AI systems that provide predictions or decisions, Generative AI systems are capable of producing original outputs such as text, images, audio, video, code, and synthetic data.

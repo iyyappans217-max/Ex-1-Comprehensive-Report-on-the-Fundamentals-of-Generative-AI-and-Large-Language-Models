@@ -189,6 +189,7 @@ The year 2024 marked a rapid expansion of AI tools across industries. AI tools a
 AI tools in 2024 are more user-friendly, multimodal, and intelligent than earlier systems.
 
 _____________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________
 
 ##  **2.2 Categories of AI Tools**
 
@@ -218,18 +219,24 @@ These tools generate and understand human language.
 _____________________________________________________________________________________________________________________
 
 ### 2.2.2 Image Generation and Design Tools
+
 These tools create images from text prompts or enhance existing visuals.
 Applications:
+
 •	Graphic design
+
 •	Advertising
+
 •	Game development
+
 •	Architecture
+
 _____________________________________________________________________________________________________________________
 
 
 ### 2.2.3 Video and Audio AI Tools
 
-### AI now generates:
+#### AI now generates:
 
 •	Voiceovers
 
@@ -267,7 +274,7 @@ Used for:
 •	Email automation
 
 •	Data analysis
-________________________________________
+_____________________________________________________________________________________________________________________
 
 ## 2.3 Impact of AI Tools in 2024
 
@@ -282,9 +289,9 @@ ________________________________________
 •	Need for AI literacy
 __________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-### 3. Large Language Models (LLMs): Concept and Construction
+# 3. Large Language Models (LLMs): Concept and Construction
 
-3.1 What Is a Large Language Model (LLM)?
+## 3.1 What Is a Large Language Model (LLM)?
 
 
 A Large Language Model (LLM) is an advanced AI model trained on massive amounts of text data to understand, generate, and reason using human language.
@@ -315,6 +322,7 @@ ________________________________________________________________________________
 
 ## 3.3 How an LLM Is Built
 
+
 Step 1: Data Collection
 
 •	Books
@@ -326,6 +334,7 @@ Step 1: Data Collection
 •	Code repositories
 
 
+
 Step 2: Data Preprocessing
 
 •	Cleaning
@@ -333,6 +342,7 @@ Step 2: Data Preprocessing
 •	Tokenization
 
 •	Removing bias and noise
+
 
 
 Step 3: Model Training
@@ -344,11 +354,14 @@ Step 3: Model Training
 •	Optimizing loss functions
 
 
+
 Step 4: Fine-Tuning
 
 •	Instruction tuning
 
 •	Reinforcement learning with human feedback (RLHF)
+
+
 
 Step 5: Deployment
 
@@ -357,9 +370,10 @@ Step 5: Deployment
 •	Web interfaces
 
 •	Embedded systems
+
 _____________________________________________________________________________________________________________________
 
-3.4 Challenges in LLM Development
+## 3.4 Challenges in LLM Development
 
 •	High computational cost
 
@@ -372,7 +386,7 @@ ________________________________________________________________________________
 •	Energy consumption
 
 _____________________________________________________________________________________________________________________
-3.5 Applications of LLMs: 
+## 3.5 Applications of LLMs: 
 
 •	Education and tutoring
 
@@ -385,7 +399,8 @@ ________________________________________________________________________________
 •	Legal and financial analysis
 
 _____________________________________________________________________________________________________________________
-## 4. Evolution of Artificial Intelligence – Timeline Chart
+_____________________________________________________________________________________________________________________
+# 4. Evolution of Artificial Intelligence – Timeline Chart
 
 ## 4.1 Introduction
 The evolution of AI spans more than seven decades, moving from theoretical ideas to practical, intelligent systems.
@@ -419,6 +434,8 @@ Modern AI focuses on:
 •	Responsible and ethical AI
 
 •	Artificial General Intelligence (AGI)
+
+__________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 # Conclusion
 

@@ -5,7 +5,7 @@
 # 1. Foundational Concepts of Generative AI, Generative Models, and Their Types
 
 # **1.1 Introduction to Generative AI** 
-<span style="color:red;">Image Generation Tools</span>
+
 
 Generative Artificial Intelligence (Generative AI) is a branch of artificial intelligence that focuses on creating new content rather than only analyzing or classifying existing data.
 

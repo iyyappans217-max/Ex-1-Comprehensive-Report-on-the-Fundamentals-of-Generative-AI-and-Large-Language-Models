@@ -216,7 +216,6 @@ These tools generate and understand human language.
 •	Customer support
 
 •	Content creation
-_____________________________________________________________________________________________________________________
 
 ### 2.2.2 Image Generation and Design Tools
 
@@ -231,7 +230,7 @@ Applications:
 
 •	Architecture
 
-_____________________________________________________________________________________________________________________
+
 
 
 ### 2.2.3 Video and Audio AI Tools
@@ -247,7 +246,7 @@ ________________________________________________________________________________
 •	Short films
 
 Used heavily in marketing, education, and entertainment.
-_____________________________________________________________________________________________________________________
+
 ###  2.2.4 Coding and Development Tools
 
 AI assists programmers by:
@@ -261,7 +260,6 @@ AI assists programmers by:
 •	Generating documentation
 
 These tools significantly improve productivity.
-_____________________________________________________________________________________________________________________
 
 ### 2.2.5 Business and Productivity AI Tools
 
@@ -274,7 +272,7 @@ Used for:
 •	Email automation
 
 •	Data analysis
-_____________________________________________________________________________________________________________________
+
 
 ## 2.3 Impact of AI Tools in 2024
 
@@ -287,6 +285,7 @@ ________________________________________________________________________________
 •	Ethical and privacy concerns
 
 •	Need for AI literacy
+
 __________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 # 3. Large Language Models (LLMs): Concept and Construction

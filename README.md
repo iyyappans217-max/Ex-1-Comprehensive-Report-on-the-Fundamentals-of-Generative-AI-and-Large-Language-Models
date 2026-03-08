@@ -59,7 +59,7 @@ ________________________________________________________________________________
 ## **1.4 Types of Generative Models**
 
 Generative models can be broadly classified into the following major types:
-_____________________________________________________________________________________________________________________
+
 ### 1.4.1 Autoregressive Models
 
 Autoregressive models generate data step by step, where each new output depends on previous outputs
@@ -109,8 +109,8 @@ They introduce probability distributions in latent space, enabling controlled ge
 #### Limitations:
 
 •	Generated samples may be blurry
-________________________________________
-**1.4.3 Generative Adversarial Networks (GANs)**
+_____________________________________________________________________________________________________________________
+### **1.4.3 Generative Adversarial Networks (GANs)**
 
 GANs consist of two competing neural networks:
 

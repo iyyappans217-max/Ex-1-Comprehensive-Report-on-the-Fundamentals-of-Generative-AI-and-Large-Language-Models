@@ -2,8 +2,9 @@
 ## Reference Number  : 25014014
 ## Register Number   :  212225230108
 
-# 1. Foundational Concepts of Generative AI, Generative Models, and Their Types##
-<u> **1.1 Introduction to Generative AI** </u>
+# 1. Foundational Concepts of Generative AI, Generative Models, and Their Types
+
+# **1.1 Introduction to Generative AI** 
 
 Generative Artificial Intelligence (Generative AI) is a branch of artificial intelligence that focuses on creating new content rather than only analyzing or classifying existing data.
 
@@ -11,7 +12,7 @@ Unlike traditional AI systems that provide predictions or decisions, Generative 
 
 Generative AI learns the underlying patterns and probability distributions of training data and then uses this learned knowledge to generate new data that closely resembles real-world data.
 
-<u> #### Examples of tasks performed by Generative AI include </u>
+#### Examples of tasks performed by Generative AI include
 
 •	Writing essays and reports
 
@@ -24,7 +25,7 @@ Generative AI learns the underlying patterns and probability distributions of tr
 •	Designing products and simulations
 
 _____________________________________________________________________________________________________________________
-<u> ## **1.2 What Is a Generative Model?**</u>
+## **1.2 What Is a Generative Model?**
 
 A Generative Model is a type of machine learning model that learns how data is generated in order to produce new data samples from the same distribution.
 
@@ -55,7 +56,7 @@ Generative models play a critical role in modern AI because they:
 They are especially useful when real-world data is limited, expensive, or sensitive.
 
 _____________________________________________________________________________________________________________________
-**1.4 Types of Generative Models**
+## **1.4 Types of Generative Models**
 
 Generative models can be broadly classified into the following major types:
 _____________________________________________________________________________________________________________________
